@@ -134,6 +134,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Business\Invoice.cs" />
     <Compile Include="Controllers\AccessController.cs" />
+    <Compile Include="Controllers\ControlsController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InvoiceController.cs" />
     <Compile Include="Controllers\JsonController.cs" />
@@ -472,6 +473,7 @@
     <Content Include="Views\Invoice\Add.cshtml" />
     <Content Include="Views\Invoice\Index.cshtml" />
     <Content Include="Views\Invoice\AddConcepto.cshtml" />
+    <Content Include="Views\Controls\Usuarios.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
